@@ -101,7 +101,7 @@ background-repeat: no-repeat; /* Parallax effect */
 background-size: cover;       /* Parallax effect */
 color: white;
 height: 400px;                /* Parallax effect */
-background-image: url(file:///Users/cullensmith/Desktop/homework4/images/header.jpg);
+background-image: url("../images/header.jpg");
 background-repeat: no-repeat;
 grid-row: 2 / span 1;
 grid-column: 1 / -1;
